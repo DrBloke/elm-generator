@@ -1,0 +1,22 @@
+{
+  "name": "elm-generator",
+  "version": "1.0.0",
+  "description": "generate boilerplate with Elm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrBloke/elm-generator.git"
+  },
+  "author": "Sam Tracey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrBloke/elm-generator/issues"
+  },
+  "homepage": "https://github.com/DrBloke/elm-generator#readme",
+  "devDependencies": {
+    "elm-format": "^0.8.3"
+  }
+}
